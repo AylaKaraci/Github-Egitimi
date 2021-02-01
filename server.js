@@ -14,7 +14,7 @@ var stash1 = false;
 var stash2 = true;
 var stash3 = "ayla";
 var bugun = "";
-var data = 1;
+var data = "bu olacak";
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasıl
 rp(url)
