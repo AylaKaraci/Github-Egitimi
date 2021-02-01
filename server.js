@@ -10,6 +10,9 @@ var p = 1;
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
+var stash1 = false;
+var stash2 = true;
+var stash3 = "ayla";
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasıl
 rp(url)
