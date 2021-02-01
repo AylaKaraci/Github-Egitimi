@@ -6,6 +6,7 @@ var port = 3000;
 var app = express();
 var wikiUrls1 = "";
 //aylakaraci branchine aittir.neden olmuyor
+//pull request nasýl
 rp(url)
   .then(function(html){
     //success!
