@@ -16,7 +16,7 @@ var stash3 = "ayla";
 var bugun = "";
 var data = "bu olacak";
 
-var ayla = "eklendi mi ki cakisma olacak mı2Main";
+var ayla = "eklendi mi ki cakisma olacak mıAyla";
 
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasıl
