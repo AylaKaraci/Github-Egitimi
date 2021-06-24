@@ -24,8 +24,10 @@ var stash = "stash olacak mı?, bakalım ne olacak? saat 19:33, 19:40 oldu"
 
 var a = "";
 var stash = "stash olacak mı?, bakalım ne olacak? saat 19:33, 19:40 oldu"
-
+var yeniSaat2041 = "sanırım anlamaya başladım mı acaba";
 var t = "";
+
+
 
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nas�l
