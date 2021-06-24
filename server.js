@@ -18,6 +18,8 @@ var data = "bu olacak";
 
 var ayla = "eklendi mi ki cakisma olacak mıAyla";
 
+var stash= "stash olacak mı?"
+
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasıl
 rp(url)
