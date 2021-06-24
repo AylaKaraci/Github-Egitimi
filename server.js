@@ -20,7 +20,9 @@ var aylabranch = "ayla brancında olacak belli bir süre.24.06.2021 18:20";
 
 var ayla = "eklendi mi ki cakisma olacak mıAyla";
 
-var stash= "stash olacak mı?, bakalım ne olacak? saat 19:33, 19:40 oldu"
+var stash = "stash olacak mı?, bakalım ne olacak? saat 19:33, 19:40 oldu"
+
+var a = "";
 
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasıl
