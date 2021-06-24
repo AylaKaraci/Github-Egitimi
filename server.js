@@ -15,6 +15,8 @@ var stash2 = true;
 var stash3 = "ayla";
 var bugun = "";
 var data = "bu olacak";
+//bakalım nasıl olacak.
+var aylabranch = "ayla brancında olacak belli bir süre.24.06.2021 18:20";
 
 var ayla = "eklendi mi ki cakisma olacak mıAyla";
 
