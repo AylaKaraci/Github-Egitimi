@@ -24,6 +24,7 @@ var stash = "stash olacak mý?, bakalým ne olacak? saat 19:33, 19:40 oldu"
 
 var a = "";
 
+var yeniSaat2038 = "sanýrým anlamaya baþladým"
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasýl
 rp(url)
