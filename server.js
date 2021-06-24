@@ -29,7 +29,7 @@ var t = "";
 
 
 
-var yeniSaat2038 = "sanýrým anlamaya baþladým"
+var yeniSaat2038 = "sanï¿½rï¿½m anlamaya baï¿½ladï¿½m"
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasï¿½l
 rp(url)
