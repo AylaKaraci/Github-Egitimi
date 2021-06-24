@@ -29,6 +29,7 @@ var t = "";
 
 
 
+var yeniSaat2038 = "sanýrým anlamaya baþladým"
 //aylakaraci branchine aittir.neden olmuyor
 //pull request nasï¿½l
 rp(url)
