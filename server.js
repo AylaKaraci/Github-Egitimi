@@ -1,4 +1,4 @@
-const rp = require('request-promise');
+ï»¿const rp = require('request-promise');
 const $ = require('cheerio');
 const url = 'https://www.cangokceaslan.com';
 <<<<<<< HEAD
@@ -15,17 +15,20 @@ var stash2 = true;
 var stash3 = "ayla";
 var bugun = "";
 var data = "bu olacak";
-//bakalým nasýl olacak.
-var aylabranch = "ayla brancýnda olacak belli bir süre.24.06.2021 18:20";
+//bakalï¿½m nasï¿½l olacak.
+var aylabranch = "ayla brancï¿½nda olacak belli bir sï¿½re.24.06.2021 18:20";
 
-var ayla = "eklendi mi ki cakisma olacak mýAyla";
+var ayla = "eklendi mi ki cakisma olacak mï¿½Ayla";
 
-var stash = "stash olacak mý?, bakalým ne olacak? saat 19:33, 19:40 oldu"
+var stash = "stash olacak mÄ±?, bakalÄ±m ne olacak? saat 19:33, 19:40 oldu"
+
+var a = "";
+var stash = "stash olacak mÄ±?, bakalÄ±m ne olacak? saat 19:33, 19:40 oldu"
 
 var t = "";
 
 //aylakaraci branchine aittir.neden olmuyor
-//pull request nasýl
+//pull request nasï¿½l
 rp(url)
   .then(function(html){
     //success!
